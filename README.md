@@ -1,2 +1,2 @@
 # ImageSearch
-Search image by yandex
+A google extension for rightclick search image by yandex.com
